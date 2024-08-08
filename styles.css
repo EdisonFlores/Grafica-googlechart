@@ -1,0 +1,21 @@
+
+.chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px; /* Ajusta según el tamaño de tus gráficos */
+    margin: auto;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
